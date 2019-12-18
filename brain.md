@@ -248,4 +248,7 @@
 * nginx, angular, error, stream, net::ERR_INCOMPLETE_CHUNKED_ENCODING, encoding, chunk
     * When streams are too big nginx write'em down on the FS
     * If no space is left under `/var/lib/....` then it can't stream everyting and it breaks
-* 
+* ag, ack, search, recursive, sack
+   * `sack` is a mix of `ag` and `ack`
+   * allows one to edit a file after search results came in
+   * `F <indexOfResult>` and it opens the particular file
