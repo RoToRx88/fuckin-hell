@@ -252,3 +252,4 @@
    * `sack` is a mix of `ag` and `ack`
    * allows one to edit a file after search results came in
    * `F <indexOfResult>` and it opens the particular file
+   * https://github.com/sampson-chen/sack
