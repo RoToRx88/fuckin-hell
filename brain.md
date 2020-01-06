@@ -253,3 +253,5 @@
    * allows one to edit a file after search results came in
    * `F <indexOfResult>` and it opens the particular file
    * https://github.com/sampson-chen/sack
+* data, storytelling, show, graph, visualisation
+   * https://www.chartr.co/
