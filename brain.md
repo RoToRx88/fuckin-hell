@@ -255,3 +255,5 @@
    * https://github.com/sampson-chen/sack
 * data, storytelling, show, graph, visualisation
    * https://www.chartr.co/
+* bash, basics, braces, brackets
+  * https://stackoverflow.com/questions/2188199/how-to-use-double-or-single-brackets-parentheses-curly-braces
