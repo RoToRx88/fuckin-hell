@@ -257,3 +257,8 @@
    * https://www.chartr.co/
 * bash, basics, braces, brackets
   * https://stackoverflow.com/questions/2188199/how-to-use-double-or-single-brackets-parentheses-curly-braces
+- vim, shell, fact, knowledge
+  - Most shell don't recognise the difference between lowercase ctrl and capital ctrl
+  - Thus, C-O and C-o are the same
+  - source: comment of this answer: https://stackoverflow.com/a/3985410
+  
