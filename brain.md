@@ -261,4 +261,7 @@
   - Most shell don't recognise the difference between lowercase ctrl and capital ctrl
   - Thus, C-O and C-o are the same
   - source: comment of this answer: https://stackoverflow.com/a/3985410
-  
+- vim, highlight, search
+  - To remove until the next search the highlighting in vim
+  - `:noh`
+  - WARNING: This does NOT remove the search buffer, therefore hitting `N` or `n` will cycle through the search results.
