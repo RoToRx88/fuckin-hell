@@ -266,3 +266,7 @@
   - `:noh`
   - WARNING: This does NOT remove the search buffer, therefore hitting `N` or `n` will cycle through the search results.
   - https://vi.stackexchange.com/questions/184/how-can-i-clear-word-highlighting-in-the-current-document-e-g-such-as-after-se
+- file, parcing, csv, grep
+  - `csvgrep`
+  - example: `csvgrep -c 2 -m "foobar" data.csv > data_filtered.csv`
+  - https://github.com/wireservice/csvkit
