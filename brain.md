@@ -270,3 +270,7 @@
   - `csvgrep`
   - example: `csvgrep -c 2 -m "foobar" data.csv > data_filtered.csv`
   - https://github.com/wireservice/csvkit
+- package, json, angular, nodejs, script, add, npm, yarn
+  - To add dynamically a script to your package.json
+  - `npm-add-script`
+  - https://www.npmjs.com/package/npm-add-script
