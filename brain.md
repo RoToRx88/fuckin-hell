@@ -274,3 +274,5 @@
   - To add dynamically a script to your package.json
   - `npm-add-script`
   - https://www.npmjs.com/package/npm-add-script
+- linux, cli, disk, analyser, space, size
+  - `ncdu`
