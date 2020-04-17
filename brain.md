@@ -276,3 +276,5 @@
   - https://www.npmjs.com/package/npm-add-script
 - linux, cli, disk, analyser, space, size
   - `ncdu`
+- teamviewer, control, remote, desktop
+  - https://parsecgaming.com/
