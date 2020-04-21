@@ -278,3 +278,9 @@
   - `ncdu`
 - teamviewer, control, remote, desktop
   - https://parsecgaming.com/
+- nginx, htpasswd, basic, auth, basicauth
+  - Generate encrypted password `perl -le 'print crypt("your-password", "salt-hash")'`
+  - Create `.htpasswd` file containing `user:encryptedPassword`
+  - Setup conf in nginx location block
+   - `auth_basic "Administrator Login";`
+   - `auth_basic_user_file /path/to/.htpasswd;`
