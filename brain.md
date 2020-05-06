@@ -291,3 +291,6 @@
 - vim, escape, sequence, theme, color, scheme, reset, fuck, shell
   - Vim sends an escape sequence to the terminal upon exit to reset the color scheme
   - https://vi.stackexchange.com/questions/11911/how-can-vim-be-configured-to-restore-normal-terminal-color-on-exit
+- git, following, file, assume, unchanged, difference
+  - There is two ways to stop following a file and keep it in the tree, here is an explanation of the diff
+  - https://stackoverflow.com/questions/13630849/git-difference-between-assume-unchanged-and-skip-worktree#
