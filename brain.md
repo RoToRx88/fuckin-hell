@@ -288,3 +288,6 @@
   - https://grh.am/2018/wireguard-setup-guide-for-ios/
 - xresources, reload, file
   - `xrdb -load ~/.Xresources`
+- vim, escape, sequence, theme, color, scheme, reset, fuck, shell
+  - Vim sends an escape sequence to the terminal upon exit to reset the color scheme
+  - https://vi.stackexchange.com/questions/11911/how-can-vim-be-configured-to-restore-normal-terminal-color-on-exit
