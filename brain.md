@@ -295,4 +295,4 @@
   - There is two ways to stop following a file and keep it in the tree, here is an explanation of the diff
   - https://stackoverflow.com/questions/13630849/git-difference-between-assume-unchanged-and-skip-worktree#
   - TL;DR
-    - use `git update-index --skip-worktree [FILE]` unless for performance issues calling stats
+    - use `git update-index --skip-worktree [FILE]` unless for performance issues calling stat
