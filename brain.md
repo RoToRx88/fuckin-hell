@@ -286,3 +286,5 @@
    - `auth_basic_user_file /path/to/.htpasswd;`
 - wireguard, vpn, setup, tutorial
   - https://grh.am/2018/wireguard-setup-guide-for-ios/
+- xresources, reload, file
+  - `xrdb -load ~/.Xresources`
