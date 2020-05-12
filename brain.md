@@ -296,3 +296,6 @@
   - https://stackoverflow.com/questions/13630849/git-difference-between-assume-unchanged-and-skip-worktree#
   - TL;DR
     - use `git update-index --skip-worktree [FILE]` unless for performance issues calling stat
+- lock, mutex, shelll, linux
+   - `flock` allows us to use a lock mechanism at systemwise
+   - `fuser` to gather information abfout a lock file
