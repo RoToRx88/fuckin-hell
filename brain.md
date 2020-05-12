@@ -297,5 +297,7 @@
   - TL;DR
     - use `git update-index --skip-worktree [FILE]` unless for performance issues calling stat
 - lock, mutex, shelll, linux
-   - `flock` allows us to use a lock mechanism at systemwise
-   - `fuser` to gather information abfout a lock file
+  - `flock` allows us to use a lock mechanism at systemwise
+  - `fuser` to gather information abfout a lock file
+- ubuntu, cron, folder, cron.daily,
+  - on ubuntu there is many folder `/etc/cron.[hourly,daily,weekly,monthly]` where we can direcly put custom crontab files
