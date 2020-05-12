@@ -300,4 +300,4 @@
   - `flock` allows us to use a lock mechanism at systemwise
   - `fuser` to gather information abfout a lock file
 - ubuntu, cron, folder, cron.daily,
-  - on ubuntu there is many folder `/etc/cron.[hourly,daily,weekly,monthly]` where we can direcly put custom crontab files
+  - on ubuntu there is many folder `/etc/cron.{hourly,daily,weekly,monthly}` where we can direcly put custom crontab files
