@@ -303,3 +303,4 @@
   - on ubuntu there is many folder `/etc/cron.{hourly,daily,weekly,monthly}` where we can direcly put custom crontab files
 - bastion, ssh, key, forward, multiple, machine, ssh
   - `ssh -A` used to forward key stored in the current ssh-agent
+  - `ssh user@finalHost -J user@bastion` allows to use a bastion as a jump platform for ssh
