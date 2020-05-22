@@ -306,4 +306,5 @@
   - `ssh user@finalHost -J user@bastion` allows to use a bastion as a jump platform for ssh
 - number, human, contact, relationship, limit, dunbar
   - https://www.wikiwand.com/en/Dunbar%27s_number
-  
+- spotify, model, mgmt, agile
+  - https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
