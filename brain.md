@@ -304,3 +304,6 @@
 - bastion, ssh, key, forward, multiple, machine, ssh
   - `ssh -A` used to forward key stored in the current ssh-agent
   - `ssh user@finalHost -J user@bastion` allows to use a bastion as a jump platform for ssh
+- number, human, contact, relationship, limit, dunbar
+  - https://www.wikiwand.com/en/Dunbar%27s_number
+  
