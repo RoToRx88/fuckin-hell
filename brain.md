@@ -308,3 +308,5 @@
   - https://www.wikiwand.com/en/Dunbar%27s_number
 - spotify, model, mgmt, agile
   - https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
+- network, test, service, reachable, nc, tcp
+  - `nc -vz myHost myPort`
