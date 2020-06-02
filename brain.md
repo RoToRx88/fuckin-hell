@@ -312,3 +312,5 @@
   - `nc -vz myHost myPort`
 - temp, file, tmp, create, folder
   - `mktemp` - create a temporary file or directory
+- basename, file, name, directory, strip, path
+  - `basename` - strip directory and suffix from filenames
