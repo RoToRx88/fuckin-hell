@@ -318,3 +318,6 @@
   - `import_tasks` when importing at pre-processing
   - `include_tasks` on runtime so dynamic
   - https://serverfault.com/questions/875247/whats-the-difference-between-include-tasks-and-import-tasks
+- vim, snippets, UltiSnips
+  - dependant of filetype
+  - https://github.com/SirVer/ultisnips
