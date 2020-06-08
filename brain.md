@@ -310,6 +310,7 @@
   - https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
 - network, test, service, reachable, nc, tcp
   - `nc -vz myHost myPort`
+  - `nc -l -p 4242` to open a server on this port
 - temp, file, tmp, create, folder
   - `mktemp` - create a temporary file or directory
 - basename, file, name, directory, strip, path
