@@ -322,3 +322,6 @@
 - vim, snippets, UltiSnips
   - dependant of filetype
   - https://github.com/SirVer/ultisnips
+- bash, pipe, redirection, fd, file, descriptor
+  - great tutorial on 2>&1 etc
+  - https://wiki.bash-hackers.org/howto/redirection_tutorial
