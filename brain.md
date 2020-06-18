@@ -327,3 +327,9 @@
   - https://wiki.bash-hackers.org/howto/redirection_tutorial
 - vim, registers
   - https://www.brianstorti.com/vim-registers/
+- linux, cli, file, manager
+  - `nnn`
+- linux, image, cli
+  - `catimg`
+- linux, man, command, examples
+  - `tldr`
