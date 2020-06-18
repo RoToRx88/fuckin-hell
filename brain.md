@@ -333,3 +333,8 @@
   - `catimg`
 - linux, man, command, examples
   - `tldr`
+- linux, gui, disk, space
+  - `filelight`
+- linux, antivirus, scan
+  - `clamav
+  - https://www.clamav.net/
