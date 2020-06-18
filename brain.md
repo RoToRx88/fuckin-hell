@@ -338,3 +338,16 @@
 - linux, antivirus, scan
   - `clamav
   - https://www.clamav.net/
+- hosts, linux, network, adblock, ad, malware
+  - block all domains that contains ad and all that crap
+  - https://github.com/StevenBlack/hosts
+- remember, flashcards, opensource, crossdevice
+  - anki
+  - https://apps.ankiweb.net/
+- docker. cli, manager, monitor, interface
+  - `lazydocker`
+  - https://github.com/jesseduffield/lazydocker
+- search, google, engine, cli
+  - `googler` to get google search results and select to open into a browser
+- convert, documents, pdf, md, markdown
+  - `pandoc`
