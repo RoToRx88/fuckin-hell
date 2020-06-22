@@ -353,3 +353,5 @@
   - `pandoc`
 - cli, shell, background, command, nohup, no, hangup
   - `nohup <commandToExecute>` creates a `nohup.out` file and runs the command in background
+- ansible, ssh, break, ctrl-c, ^c, playbook, not, working
+  - sometimes when ^C while playing a playbook, when you want to start back this playbook it won't gather facts and will stay stuck. Just `pkill ssh` and trigger again the playbook
