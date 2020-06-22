@@ -351,3 +351,5 @@
   - `googler` to get google search results and select to open into a browser
 - convert, documents, pdf, md, markdown
   - `pandoc`
+- cli, shell, background, command, nohup, no, hangup
+  - `nohup <commandToExecute>` creates a `nohup.out` file and runs the command in background
