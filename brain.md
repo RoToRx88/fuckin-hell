@@ -355,3 +355,6 @@
   - `nohup <commandToExecute>` creates a `nohup.out` file and runs the command in background
 - ansible, ssh, break, ctrl-c, ^c, playbook, not, working
   - sometimes when ^C while playing a playbook, when you want to start back this playbook it won't gather facts and will stay stuck. Just `pkill ssh` and trigger again the playbook
+- terraform, about, configuration, management
+  - > For configuration management, you should use Terraform provisioning to invoke a real configuration management solution.
+  - https://learn.hashicorp.com/terraform/getting-started/provision#running-provisioners
