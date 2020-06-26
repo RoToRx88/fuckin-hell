@@ -358,3 +358,5 @@
 - terraform, about, configuration, management
   - > For configuration management, you should use Terraform provisioning to invoke a real configuration management solution.
   - https://learn.hashicorp.com/terraform/getting-started/provision#running-provisioners
+- ansible, systemctl, --user, no, password
+  - export env var `XDG_RUNTIME_DIR` when having to do ansible task `systemctl --user`
