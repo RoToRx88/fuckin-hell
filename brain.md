@@ -362,3 +362,6 @@
   - export env var `XDG_RUNTIME_DIR` when having to do ansible task `systemctl --user`
 - idempotence
   - >  is the property of certain operations in mathematics and computer science whereby they can be applied multiple times without changing the result beyond the initial application.
+- curl, http, code, status, response
+  - curl to get only the status code
+  - `curl -s -o /dev/null -w "%{http_code}" myUrl`
