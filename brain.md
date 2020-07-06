@@ -365,3 +365,5 @@
 - curl, http, code, status, response
   - curl to get only the status code
   - `curl -s -o /dev/null -w "%{http_code}" myUrl`
+- ping, alternative, stats
+  - `mtr`
