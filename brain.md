@@ -372,3 +372,7 @@
   - `eu-west-1{a,b,c}` where `{a,b,c}` represent each a different AZ of the region
     - each AZ is different from one AWS account to another
   > An Availability Zone is represented by a Region code followed by a letter identifier; for example, us-east-1a. To ensure that resources are distributed across the Availability Zones for a Region, we independently map Availability Zones to names for each AWS account. For example, the Availability Zone us-east-1a for your AWS account might not be the same location as us-east-1a for another AWS account.
+- expose, local, port, wan
+  - https://ngrok.com/
+  - https://github.com/localtunnel/localtunnel
+  - https://serveo.net/#self-host
