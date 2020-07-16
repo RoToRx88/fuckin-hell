@@ -376,3 +376,5 @@
   - https://ngrok.com/
   - https://github.com/localtunnel/localtunnel
   - https://serveo.net/#self-host
+- niceness, priority, running, linux, unix, kernel
+  - `man nice`
