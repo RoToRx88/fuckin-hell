@@ -378,3 +378,11 @@
   - https://serveo.net/#self-host
 - niceness, priority, running, linux, unix, kernel
   - `man nice`
+- gitops, observability
+  - https://www.weave.works/technologies/gitops/
+  - https://www.weave.works/blog/weaveworks-gitops-developer-toolkit-part-one-skaffold
+  - https://www.weave.works/blog/the-gitops-pipeline
+  - https://www.weave.works/blog/gitops-part-3-observability
+  - https://www.weave.works/blog/gitops-compliance-and-secure-cicd
+  - https://www.weave.works/blog/gitops-operations-by-pull-request
+  - https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
