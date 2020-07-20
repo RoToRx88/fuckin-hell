@@ -387,3 +387,6 @@
   - https://www.weave.works/blog/gitops-operations-by-pull-request
   - https://www.weave.works/blog/kubernetes-anti-patterns-let-s-do-gitops-not-ciops
   - > Declarative means that configuration is guaranteed by a set of facts instead of by a set of instructions
+- terraform, state, 404, error, bucket
+  - `rm -rf .terraform` when switching backend bucket for state storage
+  - then `terraform init`
