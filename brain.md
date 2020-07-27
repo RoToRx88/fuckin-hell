@@ -393,3 +393,5 @@
 - terraform, debug, crash, interpret, log
   - search for the `panic` line
   - https://github.com/hashicorp/terraform/pull/5726/commits/209b69197179ac427981c64f1d89e21d43a542d7
+- cli, linux, shared, objects, librairies
+  - `ldd myBin`
