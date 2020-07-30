@@ -397,6 +397,8 @@
   - `ldd myBin`
 - arduino, vim, plugin, cli, upload, sketch
   - if permissions denied to access upload port on arduino, just add user to `uucp` group that manage every RS-232 port and devices
+- unknown, linux, distribution, name, release
+  - `cat /etc/*release`
 
 ## Archlinux hell
 
