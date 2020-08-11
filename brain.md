@@ -399,7 +399,10 @@
   - if permissions denied to access upload port on arduino, just add user to `uucp` group that manage every RS-232 port and devices
 - unknown, linux, distribution, name, release
   - `cat /etc/*release`
-
+- git, stash, drop, lost
+  - `git log --graph --oneline --decorate $( git fsck --no-reflog | awk '/dangling commit/ {print $3}' )
+  - gist source: https://gist.github.com/joseluisq/7f0f1402f05c45bac10814a9e38f81bf
+`
 ## Archlinux hell
 
 - `urxvt-unicode` from community needs perl modules
