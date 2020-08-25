@@ -407,3 +407,7 @@
 
 - `urxvt-unicode` from community needs perl modules
   - `yay -S perl-pod-parser`
+
+## Rand(websites)
+
+- https://doesmysiteneedhttps.com/
