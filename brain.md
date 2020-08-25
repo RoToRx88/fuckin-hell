@@ -411,3 +411,4 @@
 ## Rand(websites)
 
 - https://doesmysiteneedhttps.com/
+- https://12factor.net/
