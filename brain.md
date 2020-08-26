@@ -167,7 +167,7 @@
     * https://stackoverflow.com/questions/8509396/git-pull-results-in-extraneous-merge-branch-messages-in-commit-log
 * git, graph, decision, making
     * When you screw your git and want to know how to fix it
-    * (link)[https://camo.githubusercontent.com/e7fa6323f06a0e9a3f59fc8c0202f1d005c7bccd/687474703a2f2f6a757374696e68696c656d616e2e696e666f2f61727469636c652f6769742d7072657474792f6769742d7072657474792e706e67]
+    * [link](https://camo.githubusercontent.com/e7fa6323f06a0e9a3f59fc8c0202f1d005c7bccd/687474703a2f2f6a757374696e68696c656d616e2e696e666f2f61727469636c652f6769742d7072657474792f6769742d7072657474792e706e67)
 * unlock, whitepaper, white, paper, crack, science, hub, free
     * https://sci-hub.se/
 * ebook, epub, free, crack, book
