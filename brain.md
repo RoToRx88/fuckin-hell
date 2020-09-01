@@ -416,3 +416,5 @@
   - https://aws.amazon.com/premiumsupport/knowledge-center/ec2-memory-swap-file/
 - resize, partition, cloud, tool
   - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html
+- oom, killer, linux, memory, segfault
+  - https://unix.stackexchange.com/questions/136291/will-linux-start-killing-my-processes-without-asking-me-if-memory-gets-short/136294#136294
