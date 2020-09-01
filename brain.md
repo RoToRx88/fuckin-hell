@@ -412,4 +412,7 @@
 
 - https://doesmysiteneedhttps.com/
 - https://12factor.net/
-- https://aws.amazon.com/premiumsupport/knowledge-center/ec2-memory-swap-file/
+- swap, file, create, ram,
+  - https://aws.amazon.com/premiumsupport/knowledge-center/ec2-memory-swap-file/
+- resize, partition, cloud, tool
+  - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html
