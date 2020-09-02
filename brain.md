@@ -422,3 +422,5 @@
   - [atlassian.com](https://www.atlassian.com/agile/agile-at-scale/agile-iron-triangle?utm_source=newsletter-email&utm_medium=email&utm_campaign=jira-insiders-newsletter_august-2020_EML-7386&jobid=104776148&subid=1522909647)
 - software, ressources, coding, whitepaper, library
   - https://resources.sei.cmu.edu/library/
+- hugo, cms, static, commit
+  - https://forestry.io/
