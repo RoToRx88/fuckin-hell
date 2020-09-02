@@ -420,3 +420,5 @@
   - https://unix.stackexchange.com/questions/136291/will-linux-start-killing-my-processes-without-asking-me-if-memory-gets-short/136294#136294
 - agile, triangle, iron, mgmt, waterfall
   - [atlassian.com](https://www.atlassian.com/agile/agile-at-scale/agile-iron-triangle?utm_source=newsletter-email&utm_medium=email&utm_campaign=jira-insiders-newsletter_august-2020_EML-7386&jobid=104776148&subid=1522909647)
+- software, ressources, coding, whitepaper, library
+  - https://resources.sei.cmu.edu/library/
