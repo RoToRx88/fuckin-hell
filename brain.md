@@ -429,3 +429,5 @@
   - https://resources.sei.cmu.edu/library/
 - hugo, cms, static, commit
   - https://forestry.io/
+- bash, pitfalls, mistakes, error
+  - [bash](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
