@@ -401,8 +401,13 @@
   - `cat /etc/*release`
 - git, stash, drop, lost
   - `git log --graph --oneline --decorate $( git fsck --no-reflog | awk '/dangling commit/ {print $3}' )
-  - gist source: https://gist.github.com/joseluisq/7f0f1402f05c45bac10814a9e38f81bf
-`
+  - gist source: https://gist.github.com/joseluisq/7f0f1402f05c45bac10814a9e38f81bf`
+- apache, basicAuth, htpasswd, conf, vhost
+  - don't forget the `AuthBasicProvider file` 
+  - `AuthType Basic`
+  - `AuthUserFile ...`
+  - `htpasswd -c myVhost.htpasswd username`
+
 ## Archlinux hell
 
 - `urxvt-unicode` from community needs perl modules
