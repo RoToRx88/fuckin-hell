@@ -407,6 +407,8 @@
   - `AuthType Basic`
   - `AuthUserFile ...`
   - `htpasswd -c myVhost.htpasswd username`
+- domain, name, dns
+  - when looking for a server to connect and I only have a DNS record, use `dig` to get the associated records
 
 ## Archlinux hell
 
