@@ -438,3 +438,8 @@
   - https://forestry.io/
 - bash, pitfalls, mistakes, error
   - [bash](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
+- elastic, elk, observability
+  - [observability](https://www.elastic.co/blog/observability-with-the-elastic-stack)
+- schema on write, schema on read
+  - [read/write](https://www.elastic.co/blog/schema-on-write-vs-schema-on-read)
+
