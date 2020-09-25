@@ -414,11 +414,15 @@
 - vim, nerdTree, edit, name, file, rename
   - Renaming a file with nerdTree in vim
   - `m` then select `move` then rename
+- php, debug, infos, config
+  - `<?php phpinfo();`
+
 
 ## Archlinux hell
 
 - `urxvt-unicode` from community needs perl modules
   - `yay -S perl-pod-parser`
+
 
 ## Rand(websites)
 
