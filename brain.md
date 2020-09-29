@@ -416,6 +416,9 @@
   - `m` then select `move` then rename
 - php, debug, infos, config
   - `<?php phpinfo();`
+- grub, fstab, mount, boot, error
+  - `defaults,nofail`
+  - > If you ever boot your instance without this volume attached (for example, after moving the volume to another instance), the nofail mount option enables the instance to boot even if there are errors mounting the volume. Debian derivatives, including Ubuntu versions earlier than 16.04, must also add the nobootwait mount option.
 
 
 ## Archlinux hell
