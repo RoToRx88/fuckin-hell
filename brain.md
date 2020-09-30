@@ -419,7 +419,9 @@
 - grub, fstab, mount, boot, error
   - `defaults,nofail`
   - > If you ever boot your instance without this volume attached (for example, after moving the volume to another instance), the nofail mount option enables the instance to boot even if there are errors mounting the volume. Debian derivatives, including Ubuntu versions earlier than 16.04, must also add the nobootwait mount option.
-
+- deployment, capistrano, exclude, dir, not, all
+  - to exclude the `build` dirs but not the one generated on ./
+  - `set :exclude_dir, ['./build']` instead of `['build']`
 
 ## Archlinux hell
 
