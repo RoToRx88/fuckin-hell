@@ -451,4 +451,6 @@
   - [observability](https://www.elastic.co/blog/observability-with-the-elastic-stack)
 - schema on write, schema on read
   - [read/write](https://www.elastic.co/blog/schema-on-write-vs-schema-on-read)
+- dns, propagation, verification, global
+  - [dnsmap](https://dnsmap.io/)
 
