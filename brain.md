@@ -422,6 +422,10 @@
 - deployment, capistrano, exclude, dir, not, all
   - to exclude the `build` dirs but not the one generated on ./
   - `set :exclude_dir, ['./build']` instead of `['build']`
+- unmount, umount, busy, device
+  - `lsof | grep <mountPoint>`
+  - `kill <pidOfProcessUsingMountPoint>`
+  - [more on that](https://stackoverflow.com/a/58121313)
 
 ## Archlinux hell
 
