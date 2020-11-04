@@ -429,6 +429,7 @@
 - bash, expend, arguments, previous, command, builtin
   - `myCommand !*`
   - can use `alt+.` to cycle through arguments' history
+  - [reference](https://stackoverflow.com/a/36654936)
 
 ## Archlinux hell
 
