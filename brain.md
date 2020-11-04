@@ -426,6 +426,9 @@
   - `lsof | grep <mountPoint>`
   - `kill <pidOfProcessUsingMountPoint>`
   - [more on that](https://stackoverflow.com/a/58121313)
+- bash, expend, arguments, previous, command, builtin
+  - `myCommand !*`
+  - can use `alt+.` to cycle through arguments' history
 
 ## Archlinux hell
 
