@@ -464,3 +464,7 @@
 - dns, propagation, verification, global
   - [dnsmap](https://dnsmap.io/)
 
+
+## Whitepapers and documents
+- redis, microservices
+  - [here](file:///home/ncomte/Downloads/Redis-Microservices-for-Dummies-French.pdf)
