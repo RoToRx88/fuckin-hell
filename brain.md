@@ -463,6 +463,8 @@
   - [read/write](https://www.elastic.co/blog/schema-on-write-vs-schema-on-read)
 - dns, propagation, verification, global
   - [dnsmap](https://dnsmap.io/)
+- oneliner, command, shell, useful, tips, tricks
+  - [here](https://linuxcommandlibrary.com/basic/oneliners.html)
 
 
 ## Whitepapers and documents
