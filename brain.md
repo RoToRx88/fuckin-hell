@@ -465,6 +465,8 @@
   - [dnsmap](https://dnsmap.io/)
 - oneliner, command, shell, useful, tips, tricks
   - [here](https://linuxcommandlibrary.com/basic/oneliners.html)
+- observability, system, htop, monitoring
+  - [here](https://docs.monadical.com/s/system-monitoring-tools#Bonus-tools)
 
 
 ## Whitepapers and documents
