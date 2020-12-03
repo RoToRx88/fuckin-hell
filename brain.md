@@ -467,6 +467,8 @@
   - [here](https://linuxcommandlibrary.com/basic/oneliners.html)
 - observability, system, htop, monitoring
   - [here](https://docs.monadical.com/s/system-monitoring-tools#Bonus-tools)
+- aws, cloudFront, S3, serve, static, website, jekyll, hugo
+  - [here](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/)
 
 
 ## Whitepapers and documents
