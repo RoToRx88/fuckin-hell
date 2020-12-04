@@ -432,6 +432,9 @@
   - [reference](https://stackoverflow.com/a/36654936)
 - bash, source, config, global, system, unix
   - `/etc/profile.d/MyScript.sh` ran by all users when instanciating a shell
+- zip, unzip, show, content, archive
+  - `less myArchive.zip`
+  - `less` is capable of showing the content of a zipfile
 
 ## Archlinux hell
 
