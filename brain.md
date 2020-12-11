@@ -472,7 +472,8 @@
   - [here](https://docs.monadical.com/s/system-monitoring-tools#Bonus-tools)
 - aws, cloudFront, S3, serve, static, website, jekyll, hugo
   - [here](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/)
-
+- ssl, haproxy, configuration, generator
+  - [here](https://ssl-config.mozilla.org/#server=haproxy)
 
 ## Whitepapers and documents
 - redis, microservices
