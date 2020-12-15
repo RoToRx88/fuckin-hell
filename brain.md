@@ -474,7 +474,10 @@
   - [here](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-https-requests-s3/)
 - ssl, haproxy, configuration, generator
   - [here](https://ssl-config.mozilla.org/#server=haproxy)
-
+- paste, by, wetransfer, presentation
+  - [here](https://pasteapp.com/home)
+- whiteboard, online, canvas
+  - [here](https://miro.com/login/)
 ## Whitepapers and documents
 - redis, microservices
   - [here](file:///home/ncomte/Downloads/Redis-Microservices-for-Dummies-French.pdf)
