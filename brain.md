@@ -435,7 +435,8 @@
 - zip, unzip, show, content, archive
   - `less myArchive.zip`
   - `less` is capable of showing the content of a zipfile
-
+- apg, password, random, generator, linux, command
+  - `apg` linux command to generate random passwords
 ## Archlinux hell
 
 - `urxvt-unicode` from community needs perl modules
