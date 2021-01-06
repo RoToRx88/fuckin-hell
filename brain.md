@@ -479,6 +479,9 @@
   - [here](https://pasteapp.com/home)
 - whiteboard, online, canvas
   - [here](https://miro.com/login/)
+- golang, resources, tutorials
+  - [here](https://golangresources.com/)
+  
 ## Whitepapers and documents
 - redis, microservices
   - [here](file:///home/ncomte/Downloads/Redis-Microservices-for-Dummies-French.pdf)
