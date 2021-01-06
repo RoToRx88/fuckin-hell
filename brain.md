@@ -481,6 +481,8 @@
   - [here](https://miro.com/login/)
 - golang, resources, tutorials
   - [here](https://golangresources.com/)
+- minecraft, computercraft, file, watcher, cloud
+  - [here](https://cloud-catcher.squiddev.cc/)
   
 ## Whitepapers and documents
 - redis, microservices
