@@ -437,6 +437,11 @@
   - `less` is capable of showing the content of a zipfile
 - apg, password, random, generator, linux, command
   - `apg` linux command to generate random passwords
+- ansible, testing, molecule, docker, driver
+  - to use docker as a driver for molecule
+  - `pip install 'molecule[docker]'`
+
+
 ## Archlinux hell
 
 - `urxvt-unicode` from community needs perl modules
