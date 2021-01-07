@@ -440,7 +440,11 @@
 - ansible, testing, molecule, docker, driver
   - to use docker as a driver for molecule
   - `pip install 'molecule[docker]'`
-
+- vim, tutorial, learning, cli
+  - `vimtutor`
+- cli, linux, tutorial, learning, shell, man
+  - `man man`
+  - `man -a intro`
 
 ## Archlinux hell
 
