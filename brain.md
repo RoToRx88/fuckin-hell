@@ -445,6 +445,8 @@
 - cli, linux, tutorial, learning, shell, man
   - `man man`
   - `man -a intro`
+- mysql, database, size
+  - `du -hs /var/lib/mysql/MyDatabaseName`
 
 ## Archlinux hell
 
