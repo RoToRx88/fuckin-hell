@@ -447,6 +447,9 @@
   - `man -a intro`
 - mysql, database, size
   - `du -hs /var/lib/mysql/MyDatabaseName`
+- python, local, server, fileserver
+  - `python -m http.server 8000`
+  - will serve the current folder it's ran in
 
 ## Archlinux hell
 
