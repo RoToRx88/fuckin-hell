@@ -450,6 +450,8 @@
 - python, local, server, fileserver
   - `python -m http.server 8000`
   - will serve the current folder it's ran in
+- docker, access, host, ip, domain, dns, network
+  - `host.docker.internal`
 
 ## Archlinux hell
 
