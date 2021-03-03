@@ -452,6 +452,9 @@
   - will serve the current folder it's ran in
 - docker, access, host, ip, domain, dns, network
   - `host.docker.internal`
+- postfix, email, error, denied, relay
+  - it can be caused by the postfix server not allowed to send emails coming from a requester's foreign IP address
+  - [link](https://serverfault.com/questions/775415/postfix-noqueue-reject-rcpt-from-unknown)
 
 ## Archlinux hell
 
