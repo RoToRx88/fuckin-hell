@@ -502,6 +502,8 @@
   - [here](https://golangresources.com/)
 - minecraft, computercraft, file, watcher, cloud
   - [here](https://cloud-catcher.squiddev.cc/)
+- linux, server, gaming, gameserver, easy, install, auto, setup
+  - [here](https://linuxgsm.com/)
   
 ## Whitepapers and documents
 - redis, microservices
