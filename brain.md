@@ -455,6 +455,10 @@
 - postfix, email, error, denied, relay
   - it can be caused by the postfix server not allowed to send emails coming from a requester's foreign IP address
   - [link](https://serverfault.com/questions/775415/postfix-noqueue-reject-rcpt-from-unknown)
+- google, chrome, unsafe, website, ssl, error, certificate,
+  - somewhere in the grey area click, and then type `thisisunsafe`
+  - `chrome://flags/#allow-insecure-localhost` and enable
+  - [link](https://www.technipages.com/google-chrome-bypass-your-connection-is-not-private-message)
 
 ## Archlinux hell
 
@@ -505,6 +509,7 @@
 - linux, server, gaming, gameserver, easy, install, auto, setup
   - [here](https://linuxgsm.com/)
   
+ 
 ## Whitepapers and documents
 - redis, microservices
   - [here](file:///home/ncomte/Downloads/Redis-Microservices-for-Dummies-French.pdf)
