@@ -459,6 +459,10 @@
   - somewhere in the grey area click, and then type `thisisunsafe`
   - `chrome://flags/#allow-insecure-localhost` and enable
   - [link](https://www.technipages.com/google-chrome-bypass-your-connection-is-not-private-message)
+- mysqldump, permission, database
+  - `mysqldump: Error: 'Access denied; you need (at least one of) the PROCESS privilege(s) for this operation' when trying to dump tablespaces`
+  - solution: `mysqldump --user user --no-tablespaces --password dbname > myexport.sql`
+  - [source](https://dba.stackexchange.com/a/273040)
 
 ## Archlinux hell
 
