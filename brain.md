@@ -463,6 +463,15 @@
   - `mysqldump: Error: 'Access denied; you need (at least one of) the PROCESS privilege(s) for this operation' when trying to dump tablespaces`
   - solution: `mysqldump --user user --no-tablespaces --password dbname > myexport.sql`
   - [source](https://dba.stackexchange.com/a/273040)
+- apache, allow, specific, user, agent
+  - ```        <Proxy *>
+                <RequireAny>
+                        Require valid-user
+                        Require env ExternalAllowed
+                        SetEnvIf User-Agent "yourUserAgentHere" ExternalAllowed
+                </RequireAny>
+        </Proxy>
+```
 
 ## Archlinux hell
 
