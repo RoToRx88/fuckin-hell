@@ -464,7 +464,8 @@
   - solution: `mysqldump --user user --no-tablespaces --password dbname > myexport.sql`
   - [source](https://dba.stackexchange.com/a/273040)
 - apache, allow, specific, user, agent
-  - ```        <Proxy *>
+  - ```        
+        <Proxy *>
                 <RequireAny>
                         Require valid-user
                         Require env ExternalAllowed
