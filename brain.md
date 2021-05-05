@@ -474,6 +474,9 @@
         </Proxy>
     ```
 
+- mysql, database, processlist, request, in progress
+  - `show processlist;`
+  - list all requests in progress / waiting
 
 
 ## Archlinux hell
