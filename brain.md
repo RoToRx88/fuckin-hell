@@ -477,6 +477,8 @@
 - mysql, database, processlist, request, in progress
   - `show processlist;`
   - list all requests in progress / waiting
+- elk, kibana, elastic, indexation, multifields
+  - When in kibana a test field has a `multi fields` status [here is the reason](https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/multi-fields.html#_default_mapping_for_string_properties)
 
 
 ## Archlinux hell
