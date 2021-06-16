@@ -479,6 +479,9 @@
   - list all requests in progress / waiting
 - elk, kibana, elastic, indexation, multifields
   - When in kibana a test field has a `multi fields` status [here is the reason](https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/multi-fields.html#_default_mapping_for_string_properties)
+- bash, file descriptor, fd, getLine
+  - [here](https://stackoverflow.com/questions/39200664/how-to-continually-process-last-lines-of-two-files-when-the-files-change-randoml)
+  - `exec 3<myfile` then `read -u 3 myNewLine && myLine="${myNewLine}"
 
 
 ## Archlinux hell
