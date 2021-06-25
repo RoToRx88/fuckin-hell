@@ -482,6 +482,9 @@
 - bash, file descriptor, fd, getLine
   - [here](https://stackoverflow.com/questions/39200664/how-to-continually-process-last-lines-of-two-files-when-the-files-change-randoml)
   - `exec 3<myfile` then `read -u 3 myNewLine && myLine="${myNewLine}"`
+- tail, logfile, follow, new, creation, file
+  - `tail -F` will try to open a newly created file
+  - `man tail`
 
 
 ## Archlinux hell
