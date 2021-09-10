@@ -488,6 +488,8 @@
 - linux, pacman, yay, downgrade, package
   - cache under `/var/cache/pacman/pkg` run wanted package with `pacman -U`
   - [here](https://unix.stackexchange.com/questions/103859/arch-linux-pacman-specifying-package-version)
+- systemctl, user, process, permission, denied
+  - `export XDG_RUNTIME_DIR=/run/user/$(id -u)`
 
 ## Archlinux hell
 
