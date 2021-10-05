@@ -490,6 +490,9 @@
   - [here](https://unix.stackexchange.com/questions/103859/arch-linux-pacman-specifying-package-version)
 - systemctl, user, process, permission, denied
   - `export XDG_RUNTIME_DIR=/run/user/$(id -u)`
+- ssh, new server, yes, type, key
+  - To automatically type `yes` upon new ssh connection: `StrictHostKeyChecking no`
+  - Still throw a warrning if ssh key changed
 
 ## Archlinux hell
 
