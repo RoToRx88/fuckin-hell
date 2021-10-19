@@ -520,6 +520,10 @@
     ]
 }```
 
+- vault, hashicorp, password, cli, tool, manager
+  - https://github.com/fishi0x01/vsh
+
+
 ## Archlinux hell
 
 - `urxvt-unicode` from community needs perl modules
