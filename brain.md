@@ -493,6 +493,33 @@
 - ssh, new server, yes, type, key
   - To automatically type `yes` upon new ssh connection: `StrictHostKeyChecking no`
   - Still throw a warrning if ssh key changed
+- aws, S3, fullacess, only, one, bucket
+  - ```{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "s3:*",
+                "s3-object-lambda:*"
+            ],
+            "Resource": [
+                "arn:aws:s3:::vault-storage-production",
+                "arn:aws:s3:::vault-storage-production/*"
+            ]
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListAllMyBuckets"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
+}
+```
 
 ## Archlinux hell
 
