@@ -522,9 +522,11 @@
 
 - vault, hashicorp, password, cli, tool, manager
   - https://github.com/fishi0x01/vsh
-
 - gitlab, ci, skip, outdated, jobs
   - [here](https://docs.gitlab.com/ee/ci/pipelines/settings.html#skip-outdated-deployment-jobs)
+- log, since, last, reboot, linux, journalctl
+  - `journalctl -b -1`
+
 
 ## Archlinux hell
 
