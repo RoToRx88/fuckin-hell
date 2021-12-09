@@ -526,6 +526,8 @@
   - [here](https://docs.gitlab.com/ee/ci/pipelines/settings.html#skip-outdated-deployment-jobs)
 - log, since, last, reboot, linux, journalctl
   - `journalctl -b -1`
+- dns, history, check
+  - [dnsdumpster](https://dnsdumpster.com/)
 
 
 ## Archlinux hell
