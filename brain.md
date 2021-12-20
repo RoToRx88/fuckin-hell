@@ -578,7 +578,8 @@
   - [here](https://cloud-catcher.squiddev.cc/)
 - linux, server, gaming, gameserver, easy, install, auto, setup
   - [here](https://linuxgsm.com/)
-  
+- docker, build, images, without, daemon, google, cloud
+  - [kaniko](https://github.com/GoogleContainerTools/kaniko)
  
 ## Whitepapers and documents
 - redis, microservices
