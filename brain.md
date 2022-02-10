@@ -528,7 +528,9 @@
   - `journalctl -b -1`
 - dns, history, check
   - [dnsdumpster](https://dnsdumpster.com/)
-
+- pfx, certificate, ssl, conversion
+  - `# openssl pkcs12 -in filename.pfx -out cert.pem -nodes`
+  - source: [here](https://www.xolphin.com/support/Certificate_conversions/Convert_pfx_file_to_pem_file)
 
 ## Archlinux hell
 
