@@ -533,7 +533,8 @@
   - source: [here](https://www.xolphin.com/support/Certificate_conversions/Convert_pfx_file_to_pem_file)
 - varnish,detailed, logs,
   - `varnishlog -q "RespStatus >= 500 or BerespStatus >= 500"`
-
+- apache, web, curl, local, testing, bypass, varnish
+  - `curl http://localhost:80 -H 'Host: __VHOST_NAME__' -H 'X-Forwarded-Proto: https' -H 'X-Forwarded-Port: 443' -H 'X-Forwarded-For: __DESTINATION_IP__'`
 
 ## Archlinux hell
 
