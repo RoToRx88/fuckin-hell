@@ -538,6 +538,7 @@
 - helm, range, loop, iteration, var, scope
   - when in a `range` statement the scope of `.` changes to the `range`
   - to reference our global values: `$.`
+  - [ref](https://github.com/helm/helm/issues/10454)
 
 
 ## Archlinux hell
