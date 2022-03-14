@@ -535,6 +535,10 @@
   - `varnishlog -q "RespStatus >= 500 or BerespStatus >= 500"`
 - apache, web, curl, local, testing, bypass, varnish
   - `curl http://localhost:80 -H 'Host: __VHOST_NAME__' -H 'X-Forwarded-Proto: https' -H 'X-Forwarded-Port: 443' -H 'X-Forwarded-For: __DESTINATION_IP__'`
+- helm, range, loop, iteration, var, scope
+  - when in a `range` statement the scope of `.` changes to the `range`
+  - to reference our global values: `$.`
+
 
 ## Archlinux hell
 
