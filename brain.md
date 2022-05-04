@@ -539,7 +539,8 @@
   - when in a `range` statement the scope of `.` changes to the `range`
   - to reference our global values: `$.`
   - [ref](https://github.com/helm/helm/issues/10454)
-
+- bash, argument, parcing, cli
+  - [ref](https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash)
 
 ## Archlinux hell
 
