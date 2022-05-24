@@ -403,9 +403,12 @@
   - `git log --graph --oneline --decorate $( git fsck --no-reflog | awk '/dangling commit/ {print $3}' )
   - gist source: https://gist.github.com/joseluisq/7f0f1402f05c45bac10814a9e38f81bf`
 - apache, basicAuth, htpasswd, conf, vhost
-  - don't forget the `AuthBasicProvider file` 
-  - `AuthType Basic`
-  - `AuthUserFile ...`
+  - `    <Directory "/var/www/html">
+        AuthType Basic
+        AuthName "Restricted Content"
+        AuthUserFile /etc/apache2/.htpasswd
+        Require valid-user
+    </Directory>`
   - `htpasswd -c myVhost.htpasswd username`
 - domain, name, dns
   - when looking for a server to connect and I only have a DNS record, use `dig` to get the associated records
