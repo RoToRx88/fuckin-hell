@@ -546,6 +546,10 @@
   - [ref](https://stackoverflow.com/questions/192249/how-do-i-parse-command-line-arguments-in-bash)
 - ntp, date, time, set, linux
   - `timedatectl`
+- linux, bspwm, cursor, size
+  - .config/gtk3 settings.ini
+  - ~/.gtkrc-2.0
+  - set the cursor size to non zero number
 
 ## Archlinux hell
 
