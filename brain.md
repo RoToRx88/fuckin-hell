@@ -550,6 +550,10 @@
   - .config/gtk3 settings.ini
   - ~/.gtkrc-2.0
   - set the cursor size to non zero number
+- rsync, non, root, user, root, stuff
+  - when usually doing `ssh ubuntu@IP` then `sudo -i`
+  - `rsync -avP -e "ssh" --rsync-path="sudo rsync" ubuntu@`
+  - https://superuser.com/a/889313
 
 ## Archlinux hell
 
