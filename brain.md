@@ -554,6 +554,8 @@
   - when usually doing `ssh ubuntu@IP` then `sudo -i`
   - `rsync -avP -e "ssh" --rsync-path="sudo rsync" ubuntu@`
   - https://superuser.com/a/889313
+- generate self signed testing certificates
+  - `openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout "${1}.key" -out "${1}.crt" -subj "/C=BE/ST=Antwerp/L=Brasschaat/O=Inuits/CN=${1}" -addext "subjectAltName = DNS:${1}"`
 
 ## Archlinux hell
 
