@@ -559,6 +559,11 @@
 - dd, burn, iso, faster, pv
   - `pv < /input/file > /output/device`
   - [source](https://askubuntu.com/a/523043)
+- mysql, create, user, copypaste
+  - `create user '<user>'@'localhost' identified with mysql_native_password by '<mypwd>';`
+  - `create database <db_name>;`
+  - `grant all privileges on <db_name>.* to '<pfeadv>'@'localhost';`
+
 
 ## Archlinux hell
 
