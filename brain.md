@@ -563,6 +563,9 @@
   - `create user '<user>'@'localhost' identified with mysql_native_password by '<mypwd>';`
   - `create database <db_name>;`
   - `grant all privileges on <db_name>.* to '<pfeadv>'@'localhost';`
+- mysql, update, user, acces, host
+  - `UPDATE mysql.user SET Host='%' WHERE Host='localhost' AND User='username';`
+  - `FLUSH PRIVILEGES;`
 
 
 ## Archlinux hell
