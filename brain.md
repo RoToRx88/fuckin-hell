@@ -621,5 +621,5 @@
 - docker, build, multistage, tutorial
   - [tuto](https://codefresh.io/docker-tutorial/node_docker_multistage/)
 ## Whitepapers and documents
-- redis, microservices
-  - [here](file:///home/ncomte/Downloads/Redis-Microservices-for-Dummies-French.pdf)
+- cheatsheet, vim, bash, cheat, sheet
+  - [here](https://quickref.me/)
