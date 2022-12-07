@@ -566,7 +566,10 @@
 - mysql, update, user, acces, host
   - `UPDATE mysql.user SET Host='%' WHERE Host='localhost' AND User='username';`
   - `FLUSH PRIVILEGES;`
-
+- macos, create, bootable, usb, disk, iso, burn
+  - when the installer is not working, we can change the version and it works
+  - `sudo plutil -replace CFBundleShortVersionString -string "12.6.03" /Applications/Install\ macOS\ Sierra.app/Contents/Info.plist`
+  - [source](https://stackoverflow.com/a/64201813/5761952)
 
 ## Archlinux hell
 
