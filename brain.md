@@ -571,6 +571,12 @@
   - `sudo plutil -replace CFBundleShortVersionString -string "12.6.03" /Applications/Install\ macOS\ Sierra.app/Contents/Info.plist`
   - [source](https://stackoverflow.com/a/64201813/5761952)
 
+- spoof, location, firefox, devtool
+  - about:config
+  - geo.provider.network.url
+  - data:application/json,{"location": {"lat": -31.969195, "lng": 115.884545}, "accuracy": 27000.0}
+  - [source](https://security.stackexchange.com/questions/147166/how-can-you-fake-geolocation-in-firefox)
+
 ## Archlinux hell
 
 - `urxvt-unicode` from community needs perl modules
