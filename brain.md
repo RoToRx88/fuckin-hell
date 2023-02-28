@@ -576,6 +576,10 @@
   - geo.provider.network.url
   - data:application/json,{"location": {"lat": -31.969195, "lng": 115.884545}, "accuracy": 27000.0}
   - [source](https://security.stackexchange.com/questions/147166/how-can-you-fake-geolocation-in-firefox)
+- macos, fork, dead, process, ansible-playbook
+  - `export OBJC_DISABLE_INITIALIZE_FORK_SAFETY='YES'`
+  - [explaination](https://stackoverflow.com/a/73738232/5761952)
+
 
 ## Archlinux hell
 
