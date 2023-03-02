@@ -579,6 +579,8 @@
 - macos, fork, dead, process, ansible-playbook
   - `export OBJC_DISABLE_INITIALIZE_FORK_SAFETY='YES'`
   - [explaination](https://stackoverflow.com/a/73738232/5761952)
+- iterm, skhd, activate, terminal, shortcut
+  - [source](https://apple.stackexchange.com/a/333082)
 
 
 ## Archlinux hell
