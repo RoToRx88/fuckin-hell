@@ -581,15 +581,25 @@
   - [explaination](https://stackoverflow.com/a/73738232/5761952)
 - iterm, skhd, activate, terminal, shortcut
   - [source](https://apple.stackexchange.com/a/333082)
-- forensic, file, iso, image
-  - `testdisk` used to analyse and repaire disk images
-  - `exiftool` read and write meta information from various files
+
 
 
 ## Archlinux hell
 
 - `urxvt-unicode` from community needs perl modules
   - `yay -S perl-pod-parser`
+
+## root
+
+- forensic, file, iso, image
+  - `testdisk` used to analyse and repaire disk images
+  - `exiftool` read and write meta information from various files
+- grub, boot, root bypass
+  - edit grub entry
+  - instead of running `ro quiet` set to `rw init=/bin/bash`
+  - in prompt now you can remount /
+    - `mount -n -o remount,rw /`
+    - `passwd`
 
 
 ## Rand(websites)
